@@ -1,0 +1,19 @@
+# Ambiente
+.env
+
+# Python
+__pycache__/
+*.pyc
+backend/.venv/
+.pytest_cache/
+.ruff_cache/
+
+# Flutter
+frontend/.dart_tool/
+frontend/build/
+frontend/.flutter-plugins*
+frontend/.packages
+frontend/pubspec.lock
+
+# Uploads locais
+backend/uploads/
